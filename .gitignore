@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+results/runs/
+results/runner/
+.DS_Store
+*.egg-info/

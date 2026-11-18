@@ -1,0 +1,149 @@
+{
+ "made_from": "mhbench nc/fork_v1_3.dfo_tr_lean and nc/fork_v2_2b.neighbour_restarts(0.0, radius=0.05, delta=0.003)",
+ "runs": [
+  {
+   "method": "v1.3",
+   "setting": [
+    5,
+    32,
+    6
+   ],
+   "seed": 0,
+   "fes": 5000,
+   "e1": 9293591.640493877,
+   "sha256": "d66822cfca50fa2f871b3d30ffa844b4e1c6943fb25a1c776720b8cc0960524a"
+  },
+  {
+   "method": "v1.3",
+   "setting": [
+    5,
+    32,
+    6
+   ],
+   "seed": 1,
+   "fes": 5000,
+   "e1": 9651718.982329521,
+   "sha256": "45237da7acdeb782a364862dbff945acdef8aa315843753e142ba555f79ee7df"
+  },
+  {
+   "method": "v2.3",
+   "setting": [
+    5,
+    32,
+    6
+   ],
+   "seed": 0,
+   "fes": 5000,
+   "e1": 44900122.92950431,
+   "sha256": "fa36decfaf2e2d359ae0102e9540078b1a5b1ebaaf74c178cf9a63eb4fb71c5e"
+  },
+  {
+   "method": "v2.3",
+   "setting": [
+    5,
+    32,
+    6
+   ],
+   "seed": 1,
+   "fes": 5000,
+   "e1": 45948866.17159219,
+   "sha256": "aa0cb7b0a9729e911828cd4b1c9569c729e5d3649e4ffdd54d8d5ec4c862ce8b"
+  },
+  {
+   "method": "v1.3",
+   "setting": [
+    5,
+    64,
+    6
+   ],
+   "seed": 0,
+   "fes": 5000,
+   "e1": 1416379645.173534,
+   "sha256": "e42eacf4cdfec085cc2a30c58507be2a351809246a2bcd5630c813141c222c04"
+  },
+  {
+   "method": "v1.3",
+   "setting": [
+    5,
+    64,
+    6
+   ],
+   "seed": 1,
+   "fes": 5000,
+   "e1": 1587951152.960852,
+   "sha256": "57aa15291775d64caafc205f7425f57de213d010374809ce38ca49b5a69e1bd6"
+  },
+  {
+   "method": "v2.3",
+   "setting": [
+    5,
+    64,
+    6
+   ],
+   "seed": 0,
+   "fes": 5000,
+   "e1": 307401537.89667773,
+   "sha256": "a11ad6e56ff5c0e38887787f9bc0c28a3285847264adc4bd2a194b826d7a62cf"
+  },
+  {
+   "method": "v2.3",
+   "setting": [
+    5,
+    64,
+    6
+   ],
+   "seed": 1,
+   "fes": 5000,
+   "e1": 306240835.5904066,
+   "sha256": "d3107b59f49751e04923b63efa7d9367cfca9a5dceb1a3576ba0ab4cdb75cd34"
+  },
+  {
+   "method": "v1.3",
+   "setting": [
+    5,
+    32,
+    32
+   ],
+   "seed": 0,
+   "fes": 5000,
+   "e1": 73993307.84002589,
+   "sha256": "1cb2b77fbd665973d8c1c5a4ffb61946e022e289a4c566095cfbdb21c56daa27"
+  },
+  {
+   "method": "v1.3",
+   "setting": [
+    5,
+    32,
+    32
+   ],
+   "seed": 1,
+   "fes": 5000,
+   "e1": 80208724.90899892,
+   "sha256": "0d584db0cdc89dff2b9532e15672b78ec0cdcb6e6420f576a616a9b8eeed294f"
+  },
+  {
+   "method": "v2.3",
+   "setting": [
+    5,
+    32,
+    32
+   ],
+   "seed": 0,
+   "fes": 5000,
+   "e1": 216404432.20463723,
+   "sha256": "402905cb7f9ae3360aece08aab3ec506985ab42f7fce54c5c917885ec2fb4343"
+  },
+  {
+   "method": "v2.3",
+   "setting": [
+    5,
+    32,
+    32
+   ],
+   "seed": 1,
+   "fes": 5000,
+   "e1": 213922481.87233055,
+   "sha256": "4c2a844f27be761e00a226012b3d3f7f463f467ae87260bac7e6b392eb2d8255"
+  }
+ ]
+}

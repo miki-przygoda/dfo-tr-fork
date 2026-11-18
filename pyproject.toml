@@ -1,0 +1,22 @@
+[project]
+name = "dfoct"
+version = "1.0.0"
+description = "DFO-TR for CT reconstruction: the papers' method, a faster equivalent (v1.3) and a fork (v2.3)"
+license = "GPL-3.0-or-later"
+license-files = ["LICENSE"]
+requires-python = ">=3.12"
+dependencies = ["numpy", "numba", "scipy", "pillow", "scikit-image", "matplotlib", "pandas"]
+
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["dfoct"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 110
+extend-exclude = ["*.ipynb"]

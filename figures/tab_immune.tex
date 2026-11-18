@@ -1,0 +1,16 @@
+\begin{tabular}{lll}
+\toprule
+ & CLONALG & fit \\
+v2.3 &  &  \\
+\midrule
+best fly s & highest-affinity antibody & match \\
+other fly i & its clone & match \\
+e1 (lower is better) & affinity (higher is better) & match \\
+keep the better of the two & selection & match \\
+disturbance $\pm$ 0.05 around s, $\Delta$ = 0.003 & somatic hypermutation & partial: CLONALG's rate falls as affinity rises; fixed here \\
+DFO-TR's disturbance U(0, 255) & receptor editing / new random cells & partial: CLONALG adds cells every generation \\
+N = 2 & population; the n best are cloned & partial: a population of two \\
+DFO step towards s & -- & none \\
+clean start $\ell$ $\pm$ 16 & -- & none: problem knowledge \\
+\bottomrule
+\end{tabular}

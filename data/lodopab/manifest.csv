@@ -1,0 +1,13 @@
+sample,kind,member,slice_in_member,slice_index,patient,row,col,side,mean_0_255,max_0_255,frac_at_255
+whole00,whole,ground_truth_validation_005.hdf5,85,725,648,0,0,362,34.28,234.95,0.0000
+whole01,whole,ground_truth_validation_023.hdf5,70,3014,659,0,0,362,57.57,200.43,0.0000
+whole02,whole,ground_truth_validation_021.hdf5,37,2725,652,0,0,362,61.03,140.88,0.0000
+whole03,whole,ground_truth_validation_001.hdf5,126,254,640,0,0,362,37.65,185.38,0.0000
+whole04,whole,ground_truth_validation_001.hdf5,103,231,674,0,0,362,58.58,150.50,0.0000
+whole05,whole,ground_truth_validation_017.hdf5,45,2221,666,0,0,362,61.84,140.76,0.0000
+crop00,crop,ground_truth_validation_008.hdf5,84,1108,683,134,35,128,64.39,76.70,0.0000
+crop01,crop,ground_truth_validation_024.hdf5,122,3194,636,105,210,128,66.68,141.08,0.0000
+crop02,crop,ground_truth_validation_021.hdf5,86,2774,689,15,130,128,66.84,85.62,0.0000
+crop03,crop,ground_truth_validation_006.hdf5,92,860,642,78,44,128,62.23,74.41,0.0000
+crop04,crop,ground_truth_validation_002.hdf5,104,360,634,100,170,128,65.56,153.74,0.0000
+crop05,crop,ground_truth_validation_010.hdf5,125,1405,676,163,166,128,54.30,130.44,0.0000
